@@ -12,4 +12,6 @@ The repository contains three folders:
 ## Demo
 
 A video demonstration of the project is available
+
+
 [![Demo del Proyecto](http://img.youtube.com/vi/0Lf6t5LeqJk/0.jpg)](https://youtu.be/0Lf6t5LeqJk).
